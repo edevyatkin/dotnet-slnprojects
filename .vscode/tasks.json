@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}\\constraints-demo-app.csproj"
+                "${workspaceRoot}\\src\\constraints-demo-app\\constraints-demo-app.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"

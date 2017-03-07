@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}\\bin\\Debug\\netcoreapp1.0\\constraints-demo-app.dll",
+            "program": "${workspaceRoot}\\src\\constraints-demo-app\\bin\\Debug\\netcoreapp1.0\\constraints-demo-app.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
             "externalConsole": false,
